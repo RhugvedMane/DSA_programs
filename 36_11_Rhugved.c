@@ -85,7 +85,7 @@ void display()
 	printf("Stack is empty");
 	else
 	{
-	printf("\n eLEMENTS IN THE STACK ARE");
+	printf("\n ELEMENTS IN THE STACK ARE");
 	for(i=top; i>=0;i--)
 		{
 		 printf("\n %d", stack[i]);
