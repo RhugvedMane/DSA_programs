@@ -19,8 +19,8 @@ int n1;
 while(1)
 {
 	printf("\n----Stack Operation----");
-	printf("\n1. Push an element into the stack");
-	printf("\n2. Pop out an element from the stack");
+	printf("\n1. Push an element");
+	printf("\n2. Pop out an element");
 	printf("\n3. Display the stack elemets");
 	printf("\n4. Exit");
 	
@@ -53,7 +53,7 @@ void push(int x)
 {
 	if(top==4)
 		{
-			printf("STack ids full");
+			printf("Stack is full");
 		}
 		else
 		{
