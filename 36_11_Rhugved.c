@@ -72,7 +72,7 @@ void pop(0
 	else 
 	{
 	a= stack[top];
-	top--1;
+	top--;
 	printf("\n %d element popped out of the stack", a);
 	}
 }
