@@ -1,6 +1,7 @@
 # DSA_programs
-DSA programs:- Rhugved Mane
-
+### Name:- Rhugved Mane
+### Roll No. :- 36
+### Batch :- B
 ## **Experiment List (Part A)**
 
 | Question Number | Program                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Link to Code                                                                     | 
